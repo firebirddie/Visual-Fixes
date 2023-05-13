@@ -1,0 +1,583 @@
+<table>
+	<statics>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_002" position="3250 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="500004"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_003" position="3250 4000 981" rotation="0 0 0.707107 -0.707107" unit_id="500003"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_005" position="3800 4000 981" rotation="0 0 0.707107 -0.707107" unit_id="500007"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_007" position="2700 4000 981" rotation="0 0 0.707107 -0.707107" unit_id="500009"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_002" position="2700 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="500010"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night_open" name_id="ind_ext_dock_bld_window_solid_night_open_003" position="3800 4000 800" rotation="0 0 0.707107 -0.707107" unit_id="500006"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_004" position="2125 3875 981" rotation="0 0 0 -1" unit_id="500011"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_006" position="2125 3875 800" rotation="0 0 0 -1" unit_id="500012"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_008" position="2125 3075 981" rotation="0 0 0 -1" unit_id="500013"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_009" position="2125 3075 800" rotation="0 0 0 -1" unit_id="500014"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_010" position="2125 1875 800" rotation="0 0 0 -1" unit_id="500015"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_011" position="2125 1875 981" rotation="0 0 0 -1" unit_id="500016"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_012" position="2125 1075 800" rotation="0 0 0 -1" unit_id="500017"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_013" position="2125 1075 981" rotation="0 0 0 -1" unit_id="500018"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box_part" name_id="ind_ext_dock_bld_electrical_box_part_001" position="3250 3000 0" rotation="0 0 0 -1" unit_id="500005"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_014" position="4451 4015 475" rotation="0 0 0.707107 -0.707107" unit_id="500081"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_015" position="4851 4016 475" rotation="0 0 0.707107 -0.707107" unit_id="500082"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_016" position="4451 2765 475" rotation="0 0 0.707107 -0.707107" unit_id="500083"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_017" position="4851 2766 475" rotation="0 0 0.707107 -0.707107" unit_id="500084"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_018" position="5334 3526 475" rotation="0 0 0 -1" unit_id="500085"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_019" position="5333 3926 475" rotation="0 0 0 -1" unit_id="500086"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_020" position="4082 2726 874" rotation="0 0 0 -1" unit_id="500087"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_021" position="4082 2326 874" rotation="0 0 0 -1" unit_id="500088"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_022" position="4082 1526 874" rotation="0 0 0 -1" unit_id="500089"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_023" position="4082 1126 874" rotation="0 0 0 -1" unit_id="500090"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_025" position="4082 1126 474" rotation="0 0 0 -1" unit_id="500091"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_026" position="4082 1526 474" rotation="0 0 0 -1" unit_id="500092"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_027" position="3433 1126 874" rotation="0 0 0 -1" unit_id="500094"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_028" position="3433 1126 474" rotation="0 0 0 -1" unit_id="500095"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box_part" name_id="ind_ext_dock_bld_electrical_box_part_002" position="3900 400 400" rotation="0 0 0.707107 -0.707107" unit_id="500074"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="core/units/light_omni/light_omni" name_id="light_omni_014" position="3822 1790 988" rotation="0 0 0.707107 -0.707107" unit_id="500101">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.541176 0.407843 0.223529" enabled="true" falloff_exponent="1" far_range="300" multiplier="identity" name="lo_omni" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_029" position="4082 1926 874" rotation="0 0 0 -1" unit_id="500102"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="core/units/light_omni/light_omni" name_id="light_omni_009" position="3597 1431 917" rotation="0 0 0.707107 -0.707107" unit_id="500096">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.541176 0.407843 0.223529" enabled="true" falloff_exponent="1" far_range="400" multiplier="identity" name="lo_omni" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="core/units/light_omni/light_omni" name_id="light_omni_016" position="3972 1481 967" rotation="0 0 0.707107 -0.707107" unit_id="500104">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.384314 0.286275 0.156863" enabled="true" falloff_exponent="1" far_range="300" multiplier="identity" name="lo_omni" near_range="0" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_001" position="4311 3982 400" rotation="0.0261769 0 0 -0.999657" unit_id="500109"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v2" name_id="gen_prop_plywood_v2_001" position="4480 3982 400" rotation="0.0261769 0 0 -0.999657" unit_id="500111"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v2" name_id="gen_prop_plywood_v2_002" position="4444 4002 593" rotation="0 0.707107 0 -0.707107" unit_id="500110"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v2" name_id="gen_prop_plywood_v2_003" position="4546 4004 459" rotation="0 -0.707107 0 -0.707107" unit_id="500112"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_electrical_box_part" name_id="ind_ext_dock_bld_electrical_box_part_003" position="4101 3003 400" rotation="0 0 1 -1.19209e-007" unit_id="500113"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_chimney_01" name_id="mad_chimney_01_001" position="1700 0 0" rotation="0 0 0 -1" unit_id="500116"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_chimney_01" name_id="mad_chimney_01_002" position="1700 -900 0" rotation="0 0 1 -1.19209e-007" unit_id="500117"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/props/gen_prop_cementbags/gen_prop_cementbags_f" name_id="gen_prop_cementbags_f_003" position="3251.16 6582.84 8" rotation="0 0 0.694658 -0.71934" unit_id="500026"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/props/gen_prop_cementbags/gen_prop_cementbags_f" name_id="gen_prop_cementbags_f_004" position="3451.04 6589.82 8" rotation="0 0 0.694658 -0.71934" unit_id="500106"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_sawmill_hut_03" name_id="mad_sawmill_hut_03_001" position="2700 6600 7" rotation="0 0 0 -1" unit_id="500027"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_sawmill_hut_04" name_id="mad_sawmill_hut_04_001" position="7200 -2600 0" rotation="0 0 -7.54976e-008 -1" unit_id="500122"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc2/csgo_models/props_doors/roll_up_door_full" name_id="roll_up_door_full_001" position="3738.3 4352.48 1" rotation="0 0 -0.0174527 -0.999848" unit_id="500131"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc2/csgo_models/props_doors/roll_up_door_full" name_id="roll_up_door_full_002" position="2865.83 5984.03 1" rotation="0 0 0.694658 -0.71934" unit_id="500130"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc2/csgo_models/props_doors/roll_up_door_full" name_id="roll_up_door_full_003" position="2301.17 5964.31 1" rotation="0 0 0.694658 -0.71934" unit_id="500132"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_030" position="3634 2726 874" rotation="0 0 0 -1" unit_id="500121"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/ind_ext_dock_bld_window_solid_night" name_id="ind_ext_dock_bld_window_solid_night_031" position="3698 2783 874" rotation="0 0 -0.707107 -0.707107" unit_id="500156"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_sawmill_hut_01" name_id="mad_sawmill_hut_01_001" position="7300 1600 0" rotation="0 0 0 -1" unit_id="500053"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/nature/mad_foliage/mad_veg_winter_tree_linden/mad_veg_winter_tree_linden_large" name_id="mad_veg_winter_tree_linden_large_018" position="5771.04 -1868.77 -14" rotation="0 0 0.556297 -0.830983" unit_id="500061"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_02" name_id="mad_rock_02_017" position="6024.07 8646.15 -113" rotation="3.56691e-016 7.90767e-017 -0.21644 -0.976296" unit_id="500066"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_sawmill_building_02" name_id="mad_sawmill_building_02_002" position="5200 -3200 0" rotation="0 0 -7.54976e-008 -1" unit_id="500070"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_staircase_01" name_id="mad_staircase_01_001" position="3050 3900 0" rotation="0 0 0 -1" unit_id="500071"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/payday2/architecture/ind/ind_ext_dock_bld/dock_door_01_open" name_id="dock_door_01_open_002" position="4900 3150 0" rotation="0 0 0.707107 -0.707107" unit_id="500055"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="hide_locks" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate" name_id="air_prop_runway_fence_gate_003" position="6894 6299 2" rotation="0 0 1 -5.96046e-008" unit_id="500033"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_compound_wall" name_id="mad_compound_wall_001" position="-500 1400 0" rotation="0 0 0 -1" unit_id="500025"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_compound_wall" name_id="mad_compound_wall_002" position="7700 1900 0" rotation="0 0 0 -1" unit_id="500032"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/nature/mad_foliage/mad_veg_winter_tree_linden/mad_veg_winter_tree_linden_small" name_id="mad_veg_winter_tree_linden_small_032" position="5060.18 4493.27 -94.9529" rotation="0.00228813 0.0123312 -0.847628 -0.530443" unit_id="500146"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_covered" name_id="mad_prop_log_bigstack_covered_001" position="5210.28 628.37 155" rotation="0 0 -0.707107 -0.707107" unit_id="500075"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_covered" name_id="mad_prop_log_bigstack_covered_002" position="5611.28 928.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500093"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_006" position="7164.28 1386.37 92" rotation="0 0 0.707107 -0.707107" unit_id="500143"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_007" position="7164.28 1386.37 17" rotation="0 0 0.707107 -0.707107" unit_id="500145"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_008" position="7164.28 2309.37 92" rotation="0 0 0.707107 -0.707107" unit_id="500147"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_009" position="7164.28 2309.37 17" rotation="0 0 0.707107 -0.707107" unit_id="500148"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_010" position="7177.28 1393.37 240" rotation="0 0 -0.707107 -0.707107" unit_id="500149"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_011" position="7177.28 1393.37 166" rotation="0 0 -0.707107 -0.707107" unit_id="500150"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_012" position="7172.28 2311.37 166" rotation="0 0 -0.707107 -0.707107" unit_id="500151"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack" name_id="mad_prop_log_bigstack_013" position="7172.28 2311.37 240" rotation="0 0 -0.707107 -0.707107" unit_id="500152"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_covered" name_id="mad_prop_log_bigstack_covered_003" position="6155.28 1721.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500157"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_covered" name_id="mad_prop_log_bigstack_covered_004" position="5754.28 1862.37 150" rotation="0 0 -0.707107 -0.707107" unit_id="500160"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_05" name_id="mad_rock_05_003" position="5993 -1902 7" rotation="0.0616431 -0.726052 0.12292 -0.67375" unit_id="700141"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_05" name_id="mad_rock_05_005" position="6277.74 -1990.72 -5" rotation="-0.410325 0.545111 -0.31658 -0.658988" unit_id="700171"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_05" name_id="mad_rock_05_021" position="7606.12 5111.18 -54" rotation="0.710407 0.16209 -0.6843 -0.0279558" unit_id="700246"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_05" name_id="mad_rock_05_032" position="5577.12 8226.18 -46" rotation="-0.291951 -0.712823 0.355023 -0.529723" unit_id="700266"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_05" name_id="mad_rock_05_035" position="5983.12 8472.18 -8" rotation="0.0329069 0.614289 0.168293 -0.770223" unit_id="700271"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/nature/mad_rocks/mad_rock_04" name_id="mad_rock_04_006" position="7422.72 5040.8 -23" rotation="0.842814 -0.506414 0.0938579 -0.156206" unit_id="700209"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_winter_pallets/mad_prop_winter_pallets" name_id="mad_prop_winter_pallets_002" position="6555.75 -2058.73 -4" rotation="0 0 0.978148 -0.207912" unit_id="500060"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_001" position="7122.63 3091.69 9" rotation="0 0 -0.725374 -0.688355" unit_id="500045"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_002" position="4551.47 6765.19 9" rotation="0 0 -0.0174518 -0.999848" unit_id="500059"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_003" position="4823.75 6790.71 284" rotation="0 0 -0.0174518 -0.999848" unit_id="500063"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_004" position="7223.11 6581.73 9" rotation="0 0 -0.725374 -0.688355" unit_id="500064"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_005" position="6522.37 8212.84 9" rotation="0 0 0.71934 -0.694658" unit_id="500065"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_006" position="6989.59 8204.74 9" rotation="0 0 0.999048 0.04362" unit_id="500067"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_001" position="7092.05 3369.47 9" rotation="0 0 -0.725374 -0.688355" unit_id="500034"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_002" position="4823.75 6790.71 9" rotation="0 0 -0.0174518 -0.999848" unit_id="500057"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_003" position="5101.39 6834.42 284" rotation="0 0 -0.0174518 -0.999848" unit_id="500098"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_004" position="5800.85 6738.32 9" rotation="0 0 -0.130526 -0.991445" unit_id="500099"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_005" position="7192.85 6853.52 9" rotation="0 0 -0.725374 -0.688355" unit_id="500108"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_006" position="7194.22 7132.97 284" rotation="0 0 -0.725374 -0.688355" unit_id="500124"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_007" position="7166.74 7408.91 9" rotation="0 0 -0.725374 -0.688355" unit_id="500125"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_008" position="6515.91 8486.23 9" rotation="0 0 0.71934 -0.694658" unit_id="500126"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_009" position="7001.54 8203.7 284" rotation="0 0 0.999048 0.04362" unit_id="500128"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_yellow" name_id="mad_prop_container_a_yellow_010" position="7262.94 8196.89 9" rotation="0 0 0.999048 0.04362" unit_id="500129"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_001" position="7125.41 3095.84 284" rotation="0 0 0.688355 -0.725374" unit_id="500046"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_002" position="7092.05 3369.47 284" rotation="0 0 -0.725374 -0.688355" unit_id="500052"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_003" position="7093.42 3648.92 9" rotation="0 0 0.688355 -0.725374" unit_id="500068"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_004" position="5103.13 6784.45 9" rotation="0 0 -0.0174518 -0.999848" unit_id="500097"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_005" position="5796.71 6753.77 284" rotation="0 0 -0.130526 -0.991445" unit_id="500100"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_006" position="6014.86 6994.43 9" rotation="0 0 -0.130526 -0.991445" unit_id="500103"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_007" position="7192.85 6853.52 284" rotation="0 0 -0.725374 -0.688355" unit_id="500105"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_008" position="7194.22 7132.97 9" rotation="0 0 -0.725374 -0.688355" unit_id="500107"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_009" position="6531.9 8485.67 284" rotation="0 0 0.71934 -0.694658" unit_id="500120"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_ext_stairs" name_id="mad_ext_stairs_001" position="4400 2000 0" rotation="0 0 0 -1" unit_id="500134"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_barrel_01/mad_prop_barrel_01" name_id="mad_prop_barrel_01_008" position="3203 3106 -1.06592" rotation="1.74533e-006 -8.72665e-007 -1.52309e-012 -1" unit_id="500079"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_barrel_01/mad_prop_barrel_01" name_id="mad_prop_barrel_01_007" position="4148.76 2988.82 438.001" rotation="0.653282 -0.270597 0.653281 0.270599" unit_id="500133"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_barrel_01/mad_prop_barrel_01" name_id="mad_prop_barrel_01_009" position="3399.54 5908.79 6.92401" rotation="1.27852e-006 -1.47415e-006 -0.382683 -0.92388" unit_id="500115"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_barrel_01/mad_prop_barrel_01" name_id="mad_prop_barrel_01_012" position="3715.62 6701.46 6.92065" rotation="1.27852e-006 -1.47415e-006 -0.382683 -0.92388" unit_id="500127"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_barrel_01/mad_prop_barrel_01" name_id="mad_prop_barrel_01_013" position="4153 2846 400.001" rotation="1.74533e-006 -8.72665e-007 -1.52309e-012 -1" unit_id="500118"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_010" position="5643.5 5826.02 9" rotation="0 0 0.688355 -0.725374" unit_id="500020"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_blue" name_id="mad_prop_container_a_blue_011" position="5763.83 6123.02 9" rotation="0 0 0.688355 -0.725374" unit_id="500058"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_covered" name_id="mad_prop_log_bigstack_covered_005" position="7299.28 6074.37 93" rotation="0 0 8.9407e-008 -1" unit_id="500114"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_007" position="5503.63 3290.69 9" rotation="0 0 0.999657 -0.0261764" unit_id="500031"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="true" name="units/pd2_dlc_mad/props/mad_prop_container_a/mad_prop_container_a_red" name_id="mad_prop_container_a_red_008" position="4669.3 4606.58 9" rotation="0 0 0.95882 -0.284015" unit_id="500123"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_covered" name_id="mad_prop_log_bigstack_covered_006" position="4506.28 2062.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500136"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_001" position="4200 2100 -74.9998" rotation="0 0 0 -1" unit_id="500021"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_002" position="4200 4100 -74.9998" rotation="0 0 0 -1" unit_id="500022"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_003" position="4200 100 -74.9998" rotation="0 0 0 -1" unit_id="500028"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_004" position="2200 100 -74.9998" rotation="0 0 0 -1" unit_id="500062"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_005" position="2200 4100 -74.9998" rotation="0 0 0 -1" unit_id="500077"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_006" position="200 100 -74.9998" rotation="0 0 0 -1" unit_id="500078"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_007" position="200 4100 -74.9998" rotation="0 0 0 -1" unit_id="500080"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/dev_tools/level_tools/shadow_caster_20x20" name_id="shadow_caster_20x20_008" position="200 2100 -74.9998" rotation="0 0 0 -1" unit_id="500141"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_011" position="4100 2500 464" rotation="-0.5 -0.5 0.5 -0.5" unit_id="500076"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_012" position="4100 2000 385" rotation="5.44914e-008 -2.98023e-008 0.707107 -0.707107" unit_id="500142"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood" name_id="gen_prop_plywood_013" position="4099 2475 407" rotation="5.44914e-008 -2.98023e-008 0.707107 -0.707107" unit_id="500144"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_001" position="4100.41 2125 465.361" rotation="0.444997 0.549525 0.549525 -0.444997" unit_id="500161"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/payday2/architecture/res_ext_apartment/res_apartment_blockade_03" name_id="res_apartment_blockade_03_008" position="4108 2638 408" rotation="0 -0.052336 0 -0.99863" unit_id="500162"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_4m" name_id="mad_prop_labpipe_4m_039" position="2800 2050 322.001" rotation="0 0 -0.707107 -0.707107" unit_id="500163"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_corner_03" name_id="mad_prop_labpipe_corner_03_004" position="2800 2050 322.001" rotation="0.5 -0.5 0.5 -0.5" unit_id="500164"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_50cm" name_id="mad_prop_labpipe_50cm_030" position="2800 2000 297.001" rotation="0.5 -0.5 0.5 -0.5" unit_id="500165"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_4m" name_id="mad_prop_labpipe_4m_040" position="2927 2719 -102.956" rotation="0 0.707107 0 -0.707107" unit_id="500166"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_corner_02" name_id="mad_prop_labpipe_corner_02_041" position="2927 2719 297.044" rotation="0.707107 3.09086e-008 0.707107 -3.09086e-008" unit_id="500167"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_2m" name_id="mad_prop_labpipe_2m_040" position="2927 2694 322.044" rotation="0.5 -0.5 0.5 -0.5" unit_id="500169"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_corner_02" name_id="mad_prop_labpipe_corner_02_042" position="2800 2450 322.001" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="500168"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_corner_02" name_id="mad_prop_labpipe_corner_02_043" position="2927 2500 322.044" rotation="-0.707107 0.707107 0 -0" unit_id="500170"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_50cm" name_id="mad_prop_labpipe_50cm_032" position="2902 2475 322.044" rotation="0 1 0 -0" unit_id="500172"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_50cm" name_id="mad_prop_labpipe_50cm_033" position="2825 2475 322.001" rotation="1 -1.91069e-015 -4.37114e-008 3.55271e-015" unit_id="500171"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_156" position="2927 2719 2.04352" rotation="0 0.707107 0 -0.707107" unit_id="500173"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_157" position="2927 2719 297.044" rotation="0.707107 3.09086e-008 0.707107 -3.09086e-008" unit_id="500174"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_158" position="2927 2694 322.044" rotation="0.5 -0.5 0.5 -0.5" unit_id="500175"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_159" position="2927 2500 322.044" rotation="-0.707107 0.707107 0 -0" unit_id="500176"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_160" position="2800 2450 322.001" rotation="0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="500177"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_161" position="2800 2050 322.001" rotation="0 0 -0.707107 -0.707107" unit_id="500178"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/props/mad_prop_lab_pipeset/mad_prop_labpipe_ring" name_id="mad_prop_labpipe_ring_162" position="2800 2000 297.001" rotation="0.5 -0.5 0.5 -0.5" unit_id="500179"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_001" position="5210.28 628.37 155" rotation="0 0 -0.707107 -0.707107" unit_id="500180"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_002" position="5611.28 928.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500182"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_003" position="5754.28 1862.37 150" rotation="0 0 -0.707107 -0.707107" unit_id="500183"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_004" position="6155.28 1721.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500184"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_005" position="4506.28 2062.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500185"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_006" position="7299.28 6074.37 92" rotation="0 0 8.9407e-008 -1" unit_id="500137"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_007" position="5754.28 1862.37 76" rotation="0 0 -0.707107 -0.707107" unit_id="500138"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_008" position="5754.28 1862.37 1" rotation="0 0 -0.707107 -0.707107" unit_id="500139"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_009" position="5386.28 1927.37 6" rotation="0 0 0.707107 -0.707107" unit_id="500140"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_011" position="5210.28 628.37 81" rotation="0 0 -0.707107 -0.707107" unit_id="500153"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_012" position="5210.28 628.37 6" rotation="0 0 -0.707107 -0.707107" unit_id="500069"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_013" position="5611.28 928.37 6" rotation="0 0 -0.707107 -0.707107" unit_id="500072"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_014" position="4506.28 2062.37 6" rotation="0 0 -0.707107 -0.707107" unit_id="500073"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_015" position="7299.28 6074.37 17" rotation="0 0 8.9407e-008 -1" unit_id="500135"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_shadows="false" name="units/pd2_dlc_mad/props/mad_prop_mill_lumber_stacks/mad_prop_log_bigstack_snow" name_id="mad_prop_log_bigstack_snow_016" position="6155.28 1721.37 6" rotation="0 0 -0.707107 -0.707107" unit_id="500119"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120_broken_left" name_id="air_prop_runway_fence_120_broken_left_001" position="7725 -100 300" rotation="0 0 0.707107 -0.707107" unit_id="500029"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120_broken_left" name_id="air_prop_runway_fence_120_broken_left_002" position="7725 2300 300" rotation="0 0 0.707107 -0.707107" unit_id="500043"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_sawmill_hut_02" name_id="mad_sawmill_hut_02_001" position="4600 -799.999 0" rotation="0 0 -7.54976e-008 -1" unit_id="500041"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_sawmill_building_01" name_id="mad_sawmill_building_01_001" position="0 0 0" rotation="0 0 0 -1" unit_id="500158"/>
+		</table>
+		<table>
+			<unit_data continent="art1" name="units/pd2_dlc_mad/architecture/mad_sawmill/mad_snow_man" name_id="mad_snow_man_001" position="10393.9 8285.86 1004" rotation="0 0 0.34202 -0.939693" unit_id="500159"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120_broken_right" name_id="air_prop_runway_fence_120_broken_right_001" position="7725 1100 300" rotation="0 0 0.707107 -0.707107" unit_id="500000"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120_broken_right" name_id="air_prop_runway_fence_120_broken_right_002" position="7725 -2100 300" rotation="0 0 0.707107 -0.707107" unit_id="500001"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120_broken_right" name_id="air_prop_runway_fence_120_broken_right_003" position="7725 3500 300" rotation="0 0 0.707107 -0.707107" unit_id="500002"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_001" position="5425 -2200 300" rotation="0 0 0 -1" unit_id="500008"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_002" position="5825 -2200 300" rotation="0 0 0 -1" unit_id="500019"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_003" position="6225 -2200 300" rotation="0 0 0 -1" unit_id="500024"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_004" position="6625 -2200 250" rotation="0 0 0 -1" unit_id="500030"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_on_ai_graph="true" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_005" position="7453.29 1439.5 7" rotation="-0.504344 -0.495618 -0.495618 -0.504344" unit_id="500035"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_006" position="7725 300 300" rotation="0 0 0.707107 -0.707107" unit_id="500036"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_007" position="7725 700 300" rotation="0 0 0.707107 -0.707107" unit_id="500037"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_008" position="7988.43 1255.87 -2.77563" rotation="-0.662725 0.270433 0.270433 -0.643838" unit_id="500038"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_009" position="7725 -2500 300" rotation="0 0 0.707107 -0.707107" unit_id="500039"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_010" position="7725 2700 300" rotation="0 0 0.707107 -0.707107" unit_id="500040"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_011" position="7725 -2900 300" rotation="0 0 0.707107 -0.707107" unit_id="500042"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_012" position="7725 3100 300" rotation="0 0 0.707107 -0.707107" unit_id="500044"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_013" position="7725 -3300 300" rotation="0 0 0.707107 -0.707107" unit_id="500047"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_014" position="7725 -3700 300" rotation="0 0 0.707107 -0.707107" unit_id="500048"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_015" position="6925 6300 300" rotation="0 0 -2.98023e-008 -1" unit_id="500049"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_016" position="7325 6300 300" rotation="0 0 -2.98023e-008 -1" unit_id="500050"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_017" position="7725 6700 300" rotation="0 0 0.707107 -0.707107" unit_id="500051"/>
+		</table>
+		<table>
+			<unit_data continent="art1" mesh_variation="disable_interaction" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_120" name_id="air_prop_runway_fence_120_018" position="7725 7900 300" rotation="0 0 0.707107 -0.707107" unit_id="500054"/>
+		</table>
+		<table>
+			<unit_data continent="art1" disable_on_ai_graph="true" disable_shadows="true" mesh_variation="open_out_left" name="units/payday2/props/air_prop_runway_fence/air_prop_runway_fence_gate_v3" name_id="air_prop_runway_fence_gate_v3_001" position="5325 5469 2" rotation="0 0 0.707107 -0.707107" unit_id="500056"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

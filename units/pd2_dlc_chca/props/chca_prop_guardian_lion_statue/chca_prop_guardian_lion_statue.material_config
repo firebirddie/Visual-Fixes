@@ -1,0 +1,26 @@
+<materials version="3">
+    <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:INSTANCED:NORMALMAP" name="mat_prop_guardian_lion_statue" version="2">
+        <diffuse_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_df"/>
+        <bump_normal_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_nm"/>
+        <material_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_gsma"/>
+		<reflection_texture file="environments/cubemaps/cubemap_gold_strong_df" type="cubemap"/>
+    </material>
+    <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GLOSS_BLURS_CUBEMAP:GSMA_TEXTURE:INSTANCED:NORMALMAP" name="mat_prop_guardian_lion_statue_base" version="2">
+        <diffuse_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_base_df"/>
+        <bump_normal_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_base_nm"/>
+        <material_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_base_gsma"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold_strong_df" type="cubemap"/>
+    </material>
+    <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GSMA_TEXTURE:INSTANCED:NORMALMAP" name="mat_prop_guardian_lion_statue_base_lod" version="2">
+        <diffuse_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_base_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_base_nm" mip="4"/>
+        <material_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_base_gsma"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold_strong_df" type="cubemap"/>
+    </material>
+    <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GSMA_TEXTURE:INSTANCED:NORMALMAP" name="mat_prop_guardian_lion_statue_lod" version="2">
+        <diffuse_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_nm" mip="4"/>
+        <material_texture file="units/pd2_dlc_chca/props/chca_prop_guardian_lion_statue/chca_prop_guardian_lion_statue_gsma"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold_strong_df" type="cubemap"/>
+    </material>
+</materials>

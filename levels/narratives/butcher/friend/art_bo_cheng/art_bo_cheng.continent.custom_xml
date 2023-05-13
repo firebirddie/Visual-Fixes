@@ -1,0 +1,437 @@
+<table>
+	<statics>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_wall/sfm_prop_lobby_lamp_wall" name_id="sfm_prop_lobby_lamp_wall_008" position="-2637 -665 350.03" rotation="0 0 -5.96046e-007 -1" unit_id="500000"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_wall/sfm_prop_lobby_lamp_wall" name_id="sfm_prop_lobby_lamp_wall_009" position="-2637 -1474 350.03" rotation="0 0 1 -6.85453e-007" unit_id="500001"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_wall/sfm_prop_lobby_lamp_wall" name_id="sfm_prop_lobby_lamp_wall_010" position="-2330 -176 334.987" rotation="0 0 -0.707107 -0.707107" unit_id="500003"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_023" position="-2597.12 -3683.42 448" rotation="0 0 -0.566406 -0.824126" unit_id="500004"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_015" position="-2678.58 -4003.34 453" rotation="0 0 -0.207911 -0.978148" unit_id="500005"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_024" position="-2678.65 -4008.2 449" rotation="0 0 0.819152 -0.573576" unit_id="500006"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_025" position="-2597.89 -3786.38 451" rotation="0 0 -0.848048 -0.529919" unit_id="500008"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_013" position="-2682 -4079 447" rotation="0 0 -0.707107 -0.707107" unit_id="500009"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_nightstand/sfm_prop_bedroom_nightstand" name_id="sfm_prop_bedroom_nightstand_008" position="-2582 -3762 478" rotation="0 0 0 -1" unit_id="500010"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_window_white" name_id="sfm_int_window_white_021" position="-2709 -4058 448" rotation="0 0 -2.68221e-007 -1" unit_id="500011"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_016" position="-2675 -4074 449" rotation="0 0 0.707107 -0.707107" unit_id="500012"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_026" position="-2534.05 -3590.99 448" rotation="0 0 -0.382683 -0.92388" unit_id="500013"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_027" position="-2640.45 -3976.35 449" rotation="0 0 0.976296 -0.21644" unit_id="500014"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_014" position="-2682 -4147 447" rotation="0 0 0.707107 -0.707107" unit_id="500015"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_017" position="-2675 -4159 449" rotation="0 0 -0.707107 -0.707107" unit_id="500016"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_018" position="-2559.65 -3828.75 452" rotation="0 0 0.71934 -0.694658" unit_id="500017"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_028" position="-2456.34 -3532.28 448" rotation="0 0 0.991445 -0.130526" unit_id="500018"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_015" position="-2520.63 -3842.9 450" rotation="0 0 0.923879 -0.382684" unit_id="500020"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bed/sfm_prop_bedroom_bed" name_id="sfm_prop_bedroom_bed_006" position="-2446.67 -3707.07 479" rotation="0 0 -0.382683 -0.92388" unit_id="500021"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_019" position="-2469.89 -3806.3 448" rotation="0 0 0.927184 -0.374607" unit_id="500022"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_table_thin/sfm_prop_bedroom_lamp_table_thin" name_id="sfm_prop_bedroom_lamp_table_thin_003" position="-2373.57 -3568.61 554" rotation="0 0 -0.382683 -0.92388" unit_id="500023"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_nightstand/sfm_prop_bedroom_nightstand" name_id="sfm_prop_bedroom_nightstand_009" position="-2382 -3562 478" rotation="0 0 0 -1" unit_id="500024"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_029" position="-2597.58 -4315.56 449" rotation="0 0 0.92388 0.382683" unit_id="500025"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_ceiling/sfm_prop_lobby_lamp_ceiling" name_id="sfm_prop_lobby_lamp_ceiling_006" position="-1925 -172 412.987" rotation="0 0 -0.707107 -0.707107" unit_id="500026"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_030" position="-2346.46 -3537.11 451" rotation="0 0 0.97437 0.224951" unit_id="500027"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_020" position="-2342.53 -3681.93 448" rotation="0 0 -0.374607 -0.927184" unit_id="500028"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_016" position="-2543.54 -4383.74 449" rotation="0 0 0.92388 0.382683" unit_id="500029"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_017" position="-2304.25 -3626.52 450" rotation="0 0 -0.382684 -0.923879" unit_id="500030"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_021" position="-2487.28 -4428.7 450" rotation="0 0 0.92388 0.382683" unit_id="500031"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_022" position="-2487.28 -4428.7 450" rotation="0 0 0.382683 -0.92388" unit_id="500032"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_chair/sfm_prop_bedroom_chair" name_id="sfm_prop_bedroom_chair_006" position="-2310.07 -4002.1 450" rotation="0 0 -0.608761 -0.793353" unit_id="500033"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_031" position="-2155.98 -3520.96 451" rotation="0 0 -0.573577 -0.819152" unit_id="500034"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_018" position="-2435.36 -4491.92 449" rotation="0 0 0.382683 -0.92388" unit_id="500035"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_032" position="-2133 -3448 451" rotation="0 0 -0.382683 -0.92388" unit_id="500036"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_033" position="-2111.79 -3469.21 451" rotation="0 0 -0.382683 -0.92388" unit_id="500037"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_cherub/sfm_prop_bedroom_lamp_cherub" name_id="sfm_prop_bedroom_lamp_cherub_007" position="-2112.94 -3492 450" rotation="0 0 -0.707107 -0.707107" unit_id="500038"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_019" position="-2129 -3565 450" rotation="0 0 1 -1.19209e-007" unit_id="500039"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_vanity_table_set/sfm_prop_bedroom_vanity_mirror" name_id="sfm_prop_bedroom_vanity_mirror_004" position="-2055.94 -3447 527" rotation="0 0 -0.707107 -0.707107" unit_id="500040"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_towelstand/sfm_prop_bedroom_towelstand" name_id="sfm_prop_bedroom_towelstand_004" position="-2171.34 -3840.36 450" rotation="0 0 0.965926 -0.258819" unit_id="500041"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_vanity_table_set/sfm_prop_bedroom_vanity_props" name_id="sfm_prop_bedroom_vanity_props_004" position="-2039.94 -3465 528" rotation="0 0 -0.707107 -0.707107" unit_id="500042"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_034" position="-2362.82 -4550.32 449" rotation="0 0 0.92388 0.382683" unit_id="500043"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_vanity_table_set/sfm_prop_bedroom_vanity_table" name_id="sfm_prop_bedroom_vanity_table_004" position="-2039.94 -3465 450" rotation="0 0 -0.707107 -0.707107" unit_id="500044"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_035" position="-2033 -3448 451" rotation="0 0 0 -1" unit_id="500045"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_023" position="-2059.86 -3579.01 448" rotation="0 0 0.999962 0.00872633" unit_id="500046"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_vanity_table_set/sfm_prop_bedroom_vanity_stool" name_id="sfm_prop_bedroom_vanity_stool_004" position="-2047.94 -3541 450" rotation="0 0 -0.707107 -0.707107" unit_id="500047"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_chandelier/sfm_prop_bedroom_lamp_chandelier" name_id="sfm_prop_bedroom_lamp_chandelier_019" position="-2113 -4033 754" rotation="0 0 0 -1" unit_id="500048"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_024" position="-2036.86 -3579.41 448" rotation="0 0 0.00872642 -0.999962" unit_id="500049"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_036" position="-1964.69 -3453.64 451" rotation="0 0 0.965926 0.258819" unit_id="500050"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_037" position="-2290.42 -4614.23 445" rotation="0 0 0.992546 0.121869" unit_id="500051"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_cherub/sfm_prop_bedroom_lamp_cherub" name_id="sfm_prop_bedroom_lamp_cherub_008" position="-1958.94 -3490 450" rotation="0 0 0.707107 -0.707107" unit_id="500052"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_020" position="-1970 -3565 450" rotation="0 0 0 -1" unit_id="500053"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_038" position="-1922.17 -3479.94 451" rotation="0 0 0.707107 -0.707107" unit_id="500055"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_vase/sfm_prop_bedroom_vase" name_id="sfm_prop_bedroom_vase_006" position="-2212 -4596 551" rotation="0 0 1 -8.9407e-008" unit_id="500056"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_wall/sfm_prop_lobby_lamp_wall" name_id="sfm_prop_lobby_lamp_wall_011" position="-1513 -173 334.987" rotation="0 0 0.707107 -0.707107" unit_id="500057"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_039" position="-1916.17 -3532.94 451" rotation="0 0 0.707107 -0.707107" unit_id="500058"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" hide_on_projection_light="true" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_wall/sfm_prop_bedroom_lamp_wall" name_id="sfm_prop_bedroom_lamp_wall_016" position="-1850 -3435 561" rotation="0 0 -2.68221e-007 -1" unit_id="500059"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_office_decanter_and_glass/sfm_prop_office_glass" name_id="sfm_prop_office_glass_005" position="-1976 -3896 458" rotation="0 0 0 -1" unit_id="500061"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bathtub/sfm_prop_bedroom_bathtub" name_id="sfm_prop_bedroom_bathtub_002" position="-2044.47 -4082.67 365" rotation="0 0 -0.258819 -0.965926" unit_id="500062"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_window_white" name_id="sfm_int_window_white_022" position="-2203 -4664 444" rotation="0 0 -0.707107 -0.707107" unit_id="500063"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_025" position="-2184 -4631 450" rotation="0 0 -2.68221e-007 -1" unit_id="500064"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_office_decanter_and_glass/sfm_prop_office_decanter" name_id="sfm_prop_office_decanter_005" position="-1960 -3902 458" rotation="0 0 0 -1" unit_id="500065"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_021" position="-2181 -4650 451" rotation="0 0 1 -1.19209e-007" unit_id="500066"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_icebox" name_id="sfm_prop_bedroom_bar_icebox_005" position="-2130 -4588 551" rotation="0 0 1 -8.9407e-008" unit_id="500067"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_tv/sfm_prop_bedroom_tv" name_id="sfm_prop_bedroom_tv_007" position="-2125.94 -4568 450" rotation="0 0 0 -1" unit_id="500068"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_vermouth" name_id="sfm_prop_bedroom_bar_vermouth_006" position="-2094 -4577 551" rotation="0 0 1 -8.9407e-008" unit_id="500069"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_bourbon" name_id="sfm_prop_bedroom_bar_bourbon_006" position="-2096 -4587 551" rotation="0 0 1 -8.9407e-008" unit_id="500070"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_decanter" name_id="sfm_prop_bedroom_bar_decanter_006" position="-2080 -4577 551" rotation="0 0 1 -8.9407e-008" unit_id="500071"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_gin" name_id="sfm_prop_bedroom_bar_gin_007" position="-2083.26 -4593.85 550" rotation="0 0 -0.382683 -0.92388" unit_id="500072"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_gin" name_id="sfm_prop_bedroom_bar_gin_008" position="-2070 -4562 551" rotation="0 0 1 -8.9407e-008" unit_id="500073"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bar/sfm_prop_bedroom_bar_whiskey" name_id="sfm_prop_bedroom_bar_whiskey_006" position="-2071 -4592 551" rotation="0 0 1 -8.9407e-008" unit_id="500074"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_026" position="-2104 -4631 450" rotation="0 0 1 -1.19209e-007" unit_id="500075"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_022" position="-2110 -4650 451" rotation="0 0 0 -1" unit_id="500076"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_fountain/sfm_prop_bedroom_fountain" name_id="sfm_prop_bedroom_fountain_006" position="-1882.52 -3989.17 491" rotation="0 0 0.866026 0.5" unit_id="500077"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_table_wide/sfm_prop_bedroom_lamp_table_wide" name_id="sfm_prop_bedroom_lamp_table_wide_006" position="-2041 -4582 551" rotation="0 0 0.923879 -0.382684" unit_id="500078"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bath_accessories/sfm_prop_bedroom_bath_accessory_a" name_id="sfm_prop_bedroom_bath_accessory_a_004" position="-1860 -4036 458" rotation="0 0 0 -1" unit_id="500080"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bath_accessories/sfm_prop_bedroom_bath_accessory_c" name_id="sfm_prop_bedroom_bath_accessory_c_004" position="-1860 -4062 458" rotation="0 0 0 -1" unit_id="500081"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_bath_accessories/sfm_prop_bedroom_bath_accessory_b" name_id="sfm_prop_bedroom_bath_accessory_b_004" position="-1845 -4049 458" rotation="0 0 0 -1" unit_id="500082"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_wall/sfm_prop_lobby_lamp_wall" name_id="sfm_prop_lobby_lamp_wall_012" position="-1300 -271 334.987" rotation="0 0 0 -1" unit_id="500083"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_040" position="-1999 -4640 450" rotation="0 0 0 -1" unit_id="500084"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_wardrobe/sfm_prop_bedroom_wardrobe_tony" name_id="sfm_prop_bedroom_wardrobe_tony_003" position="-1581 -3615 451" rotation="0 0 0.707107 -0.707107" unit_id="500086"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_041" position="-1796 -4640 450" rotation="0 0 0 -1" unit_id="500087"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_chair/sfm_prop_bedroom_chair" name_id="sfm_prop_bedroom_chair_003" position="-1667.92 -4572.92 451" rotation="0 0 0.707106 -0.707107" unit_id="500088"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_042" position="-1528 -3927 450" rotation="0 0 -0.707107 -0.707107" unit_id="500089"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_027" position="-1544 -4014 450" rotation="0 0 0.707107 -0.707107" unit_id="500090"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_023" position="-1533 -4018 449" rotation="0 0 -0.707107 -0.707107" unit_id="500091"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_side" name_id="sfm_prop_bedroom_curtains_side_028" position="-1542 -4093 450" rotation="0 0 -0.707107 -0.707107" unit_id="500092"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_short_transparent" name_id="sfm_prop_bedroom_curtains_short_transparent_024" position="-1534 -4082 447" rotation="0 0 0.707107 -0.707107" unit_id="500093"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque_short" name_id="sfm_prop_bedroom_curtains_opaque_short_043" position="-1528 -4158 450" rotation="0 0 -0.707107 -0.707107" unit_id="500094"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_curtains/sfm_prop_bedroom_curtains_opaque" name_id="sfm_prop_bedroom_curtains_opaque_002" position="-1660 -4649 451" rotation="0 0 0 -1" unit_id="500095"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_wardrobe/sfm_prop_bedroom_wardrobe_rita" name_id="sfm_prop_bedroom_wardrobe_rita_003" position="-1581 -4455 451" rotation="0 0 0.707107 -0.707107" unit_id="500096"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_037" position="-576 -875 450" rotation="0 0 0 -1" unit_id="500097"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_038" position="-576 -975 450" rotation="0 0 0 -1" unit_id="500098"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_039" position="-576 -1075 450" rotation="0 0 0 -1" unit_id="500099"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_040" position="-576 -1175 450" rotation="0 0 0 -1" unit_id="500100"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_ceiling/sfm_prop_lobby_lamp_ceiling" name_id="sfm_prop_lobby_lamp_ceiling_007" position="-421 -1084 906.51" rotation="0 0 0 -1" unit_id="500101"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_statue_theworldisyours/sfm_prop_lobby_statue_theworldisyours" name_id="sfm_prop_lobby_statue_theworldisyours_002" position="-600 -1074.9 15" rotation="0 0 0.707106 -0.707107" unit_id="500102"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_041" position="-202 -335 450" rotation="0 0 0 -1" unit_id="500103"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_042" position="-202 -435 450" rotation="0 0 0 -1" unit_id="500104"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_043" position="-202 -610 450" rotation="0 0 0 -1" unit_id="500105"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_044" position="-202 -710 450" rotation="0 0 0 -1" unit_id="500106"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_ceiling/sfm_prop_lobby_lamp_ceiling" name_id="sfm_prop_lobby_lamp_ceiling_008" position="-130 -1084 906.51" rotation="0 0 0 -1" unit_id="500107"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_045" position="-202 -1336 450" rotation="0 0 0 -1" unit_id="500108"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_046" position="-202 -1436 450" rotation="0 0 0 -1" unit_id="500109"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_ceiling/sfm_prop_lobby_lamp_ceiling" name_id="sfm_prop_lobby_lamp_ceiling_009" position="-49 -548 906.51" rotation="0 0 0 -1" unit_id="500110"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_047" position="-202 -1611 450" rotation="0 0 0 -1" unit_id="500111"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings" name_id="sfm_int_maintroom_staircase_railings_048" position="-202 -1711 450" rotation="0 0 0 -1" unit_id="500112"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_lamp_ceiling/sfm_prop_lobby_lamp_ceiling" name_id="sfm_prop_lobby_lamp_ceiling_010" position="-49 -1567 906.51" rotation="0 0 0 -1" unit_id="500113"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_right" name_id="sfm_int_maintroom_staircase_railings_right_004" position="0 1 0" rotation="0 0 0 -1" unit_id="500114"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_mainroom_pillar" name_id="sfm_int_mainroom_pillar_002" position="0 0 0" rotation="0 0 0 -1" unit_id="500115"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_left" name_id="sfm_int_maintroom_staircase_railings_left_004" position="0 0 0" rotation="0 0 0 -1" unit_id="500117"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_bedroom/sfm_int_bedroom" name_id="sfm_int_bedroom_003" position="0 0 0" rotation="0 0 0 -1" unit_id="500118"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_mainroom" name_id="sfm_int_mainroom_002" position="0 0 0" rotation="0 0 0 -1" unit_id="500119"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="core/units/light_omni/light_omni" name_id="light_omni_025" position="-1665.06 -1083.9 659.5" rotation="0 0 -6.70552e-007 -1" unit_id="500120">
+				<lights>
+					<table clipping_values="10000 -10000 0" color="0.490196 0.25098 0.133333" enabled="true" falloff_exponent="1" far_range="2000" multiplier="streetlight" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
+				</lights>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_statue_womanwithchandelier/sfm_prop_lobby_statue_womanwithchandelier" name_id="sfm_prop_lobby_statue_womanwithchandelier_003" position="-1033.37 -1512.49 206" rotation="0 0 0.866025 -0.5" unit_id="500121"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_statue_womanwithchandelier/sfm_prop_lobby_statue_womanwithchandelier" name_id="sfm_prop_lobby_statue_womanwithchandelier_004" position="-1033.71 -637.844 206" rotation="0 0 0.382683 -0.92388" unit_id="500122"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_staircaseroom_railings_top" name_id="sfm_int_staircaseroom_railings_top_001" position="-2047 -2850 509" rotation="0 0 0 -1" unit_id="500140"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c_short" name_id="sfm_int_maintroom_staircase_railings_c_short_001" position="-2132.7 -2620.3 419.268" rotation="0.239118 0.099046 -0.369644 -0.892399" unit_id="500127"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c_short" name_id="sfm_int_maintroom_staircase_railings_c_short_003" position="-2135.86 -3078.86 419" rotation="-0.0990458 -0.239118 0.892399 0.369644" unit_id="500149"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c_short" name_id="sfm_int_maintroom_staircase_railings_c_short_004" position="-2600 -3180.21 115.163" rotation="0.258819 7.71341e-009 -2.87868e-008 -0.965926" unit_id="500150"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_end" name_id="sfm_int_maintroom_staircase_railings_end_001" position="-2040.84 -2712.16 494.268" rotation="0.239118 0.0990461 -0.369644 -0.892399" unit_id="500130"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_end" name_id="sfm_int_maintroom_staircase_railings_end_002" position="-2044 -2987 494" rotation="-0.0990457 -0.239118 0.892399 0.369644" unit_id="500136"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_001" position="-2102.08 -2650.92 444.268" rotation="0.239118 0.099046 -0.369644 -0.892399" unit_id="500123"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_002" position="-2327.6 -2498 278.113" rotation="0.183013 0.183013 -0.683013 -0.683013" unit_id="500124"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_003" position="-2414.21 -2498 228.113" rotation="0.183013 0.183013 -0.683013 -0.683013" unit_id="500125"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_004" position="-2500.81 -2498 178.113" rotation="0.183013 0.183013 -0.683013 -0.683013" unit_id="500126"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_005" position="-2600 -2606 65" rotation="-3.72529e-009 -0.258819 0.965926 -1.49012e-008" unit_id="500129"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_006" position="-2105.24 -3048.24 444" rotation="-0.0990458 -0.239118 0.892399 0.369644" unit_id="500132"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_007" position="-2327.6 -3202 278.113" rotation="0.183013 0.183013 -0.683013 -0.683013" unit_id="500133"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_008" position="-2414.21 -3202 228.113" rotation="0.183013 0.183013 -0.683013 -0.683013" unit_id="500134"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_009" position="-2600 -3093.61 65.1634" rotation="0.258819 7.71341e-009 -2.87868e-008 -0.965926" unit_id="500135"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c" name_id="sfm_int_maintroom_staircase_railings_c_010" position="-2500.81 -3202 178.113" rotation="0.183013 0.183013 -0.683013 -0.683013" unit_id="500137"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_b" name_id="sfm_int_maintroom_staircase_railings_b_001" position="-2193.94 -2559.06 369.268" rotation="0.239118 0.099046 -0.369644 -0.892399" unit_id="500128"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_b" name_id="sfm_int_maintroom_staircase_railings_b_002" position="-2197.1 -3140.1 369" rotation="-0.0990458 -0.239118 0.892399 0.369644" unit_id="500139"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_mainroom/sfm_int_maintroom_staircase_railings_c_short" name_id="sfm_int_maintroom_staircase_railings_c_short_002" position="-2600 -2519.4 115" rotation="-3.72529e-009 -0.258819 0.965926 -1.49012e-008" unit_id="500116"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_statue_womanwithchandelier/sfm_prop_lobby_statue_womanwithchandelier" name_id="sfm_prop_lobby_statue_womanwithchandelier_001" position="-2475 -3441.9 281" rotation="7.50665e-009 -3.46402e-008 1 -6.55651e-007" unit_id="500019"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_statue_womanwithchandelier/sfm_prop_lobby_statue_womanwithchandelier" name_id="sfm_prop_lobby_statue_womanwithchandelier_002" position="-2325 -2849.9 50.0002" rotation="-1.91863e-008 -2.98023e-008 0.707106 -0.707107" unit_id="500131"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_lobby_statue_womanwithchandelier/sfm_prop_lobby_statue_womanwithchandelier" name_id="sfm_prop_lobby_statue_womanwithchandelier_005" position="-2475 -2257.9 281" rotation="-3.46402e-008 -7.50665e-009 -6.55651e-007 -1" unit_id="500138"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_on_ai_graph="true" name="units/pd2_dlc_friend/props/sfm_prop_ext_door_shed/sfm_prop_ext_door_double" name_id="sfm_prop_ext_door_double_001" position="-2917 -2850 -50" rotation="0 0 0.707107 -0.707107" unit_id="500151"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_on_ai_graph="true" disable_shadows="false" mesh_variation="open_doors" name="units/pd2_dlc_friend/architecture/int/sfm_int_door_white" name_id="sfm_int_door_white_001" position="-1676 -2291 450" rotation="0 0 0.707107 -0.707107" unit_id="500153"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_doorframe/sfm_prop_doorframe_wide_white" name_id="sfm_prop_doorframe_wide_white_001" position="-2925 -2850 -50" rotation="0 0 0 -1" unit_id="500141"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/architecture/int/sfm_int_bedroom/sfm_waterplane" name_id="sfm_waterplane_001" position="-2063 -4063 400" rotation="0 0 0 -1" unit_id="500085"/>
+		</table>
+		<table>
+			<unit_data continent="art_bo_cheng" disable_shadows="false" name="units/pd2_dlc_friend/props/sfm_prop_bedroom_lamp_table_thin/sfm_prop_bedroom_lamp_table_thin" name_id="sfm_prop_bedroom_lamp_table_thin_005" position="-2571.56 -3766.6 554" rotation="0 0 -0.382683 -0.92388" unit_id="500002"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
